@@ -3,7 +3,7 @@ Atv1: Cálculo de Média Escolar; <br>
 Atv2: Contagem Regressiva <br>
 Atv3: Sistema de Cadastro de Produtos (Sem Persistencia) <br>
 Atv4: "Jogo de Adivinhação" <br>
-   <p> - O Programa seleciona um número aleatório dentro do intervalo pré-definido; :&nbsp <br> </p>
+   - O Programa seleciona um número aleatório dentro do intervalo pré-definido;  <br> 
     - O usuário dará palpites e o sistema retornará se o número escolhido é maior ou menor que o palpite; <br>
     - Se acertar, o programa retorna quantas tentativas o usuário levou para acertar o número; <br>
 Atv5: Calculo de Fatorial; <br>
