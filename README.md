@@ -8,7 +8,7 @@ Atv4: "Jogo de Adivinhação"
     - Se acertar, o programa retorna quantas tentativas o usuário levou para acertar o número; <br><br>
  </p>
 Atv5: Calculo de Fatorial; <br><br>
-Atv6: "Leitura de Números" <br><br>
+Atv6: "Leitura de Números" 
   <p>  - O programa irá ler todos os números que o usuário inserir; <br>
     - Ele termina a leitura com a inserção de um número negativo; <br>
     - No final, o programa imprime todos os números positivos inseridos.
