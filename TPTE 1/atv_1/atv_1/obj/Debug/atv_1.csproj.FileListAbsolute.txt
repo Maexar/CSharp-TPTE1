@@ -1,0 +1,7 @@
+C:\Users\marlo\Desktop\Projetos\P.O\atv_1\atv_1\bin\Debug\atv_1.exe.config
+C:\Users\marlo\Desktop\Projetos\P.O\atv_1\atv_1\bin\Debug\atv_1.exe
+C:\Users\marlo\Desktop\Projetos\P.O\atv_1\atv_1\bin\Debug\atv_1.pdb
+C:\Users\marlo\Desktop\Projetos\P.O\atv_1\atv_1\obj\Debug\atv_1.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\P.O\atv_1\atv_1\obj\Debug\atv_1.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\P.O\atv_1\atv_1\obj\Debug\atv_1.exe
+C:\Users\marlo\Desktop\Projetos\P.O\atv_1\atv_1\obj\Debug\atv_1.pdb

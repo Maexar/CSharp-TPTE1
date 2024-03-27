@@ -1,0 +1,7 @@
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv5\atv5\bin\Debug\atv5.exe.config
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv5\atv5\bin\Debug\atv5.exe
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv5\atv5\bin\Debug\atv5.pdb
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv5\atv5\obj\Debug\atv5.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv5\atv5\obj\Debug\atv5.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv5\atv5\obj\Debug\atv5.exe
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv5\atv5\obj\Debug\atv5.pdb

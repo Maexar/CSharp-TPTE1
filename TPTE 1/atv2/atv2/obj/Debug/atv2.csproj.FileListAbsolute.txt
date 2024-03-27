@@ -1,0 +1,14 @@
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv2\atv2\bin\Debug\atv2.exe.config
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv2\atv2\bin\Debug\atv2.exe
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv2\atv2\bin\Debug\atv2.pdb
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv2\atv2\obj\Debug\atv2.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv2\atv2\obj\Debug\atv2.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv2\atv2\obj\Debug\atv2.exe
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv2\atv2\obj\Debug\atv2.pdb
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 1\atv2\atv2\bin\Debug\atv2.exe.config
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 1\atv2\atv2\bin\Debug\atv2.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 1\atv2\atv2\bin\Debug\atv2.pdb
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 1\atv2\atv2\obj\Debug\atv2.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 1\atv2\atv2\obj\Debug\atv2.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 1\atv2\atv2\obj\Debug\atv2.exe
+C:\Users\marlo\Desktop\Projetos\3 periodo\P.O\TPTE 1\atv2\atv2\obj\Debug\atv2.pdb

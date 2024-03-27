@@ -1,0 +1,7 @@
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv3\atv3\bin\Debug\atv3.exe.config
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv3\atv3\bin\Debug\atv3.exe
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv3\atv3\bin\Debug\atv3.pdb
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv3\atv3\obj\Debug\atv3.csproj.AssemblyReference.cache
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv3\atv3\obj\Debug\atv3.csproj.CoreCompileInputs.cache
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv3\atv3\obj\Debug\atv3.exe
+C:\Users\marlo\Desktop\Projetos\P.O\TPTE 1\atv3\atv3\obj\Debug\atv3.pdb
